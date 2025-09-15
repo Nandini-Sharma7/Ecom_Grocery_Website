@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nandini-Sharma7/Ecom_Grocery_Website/static/css/main.e71fb38c.css",
+    "main.js": "/Nandini-Sharma7/Ecom_Grocery_Website/static/js/main.17dd92ec.js",
+    "static/media/cart-page-header-img.jpg": "/Nandini-Sharma7/Ecom_Grocery_Website/static/media/cart-page-header-img.144b125fef5e5f43a332.jpg",
+    "static/media/hero-img.jpg": "/Nandini-Sharma7/Ecom_Grocery_Website/static/media/hero-img.358b54f6112aa26ec54f.jpg",
+    "index.html": "/Nandini-Sharma7/Ecom_Grocery_Website/index.html",
+    "main.e71fb38c.css.map": "/Nandini-Sharma7/Ecom_Grocery_Website/static/css/main.e71fb38c.css.map",
+    "main.17dd92ec.js.map": "/Nandini-Sharma7/Ecom_Grocery_Website/static/js/main.17dd92ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71fb38c.css",
+    "static/js/main.17dd92ec.js"
+  ]
+}
